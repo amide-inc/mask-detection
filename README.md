@@ -6,4 +6,4 @@
 
 ##Loss and Accuracy Graph
 
-![Plot](https://https://github.com/amide-inc/mask-detection/blob/master/plot.png?raw=true)
+![Plot](https://github.com/amide-inc/mask-detection/blob/master/plot.png?raw=true)
